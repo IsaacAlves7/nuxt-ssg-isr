@@ -1,6 +1,6 @@
 > Versículo chave: "Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos." - Provérbios 16:3
 
-# 🏃🏾💨 awesome-rad
+# 🏃🏾💨 nuxt-ssg-isr - Awesome RAD
 Esse repositório une os melhores dos mundos, com alta performance em aplicações web e consumo de APIs + Deploy rápido passando pelos testes com CI/CD Pipeline com o ciclo de desenvolvimento RAD - Rapid Application Development.
 
 Um stack com **Vue.js no frontend** e **FastAPI no backend** é uma combinação extremamente poderosa quando a meta é **alta performance**, tanto em tempo de resposta quanto em produtividade do time. E converter muitos arquivos em um curto período de tempo é muito útil, pois ajudará bastante na agilidade da equipe em fazer projetos eficientes.
